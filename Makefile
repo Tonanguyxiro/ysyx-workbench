@@ -1,5 +1,7 @@
-STUID = ysyx_22040000
-STUNAME = 张三
+# ysyx_22050670-袁通-香港科技大学（广州）- 学习记录
+
+STUID = ysyx_22050670
+STUNAME = 袁通
 
 # DO NOT modify the following code!!!
 
